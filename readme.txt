@@ -1,3 +1,3 @@
 hello
-lighthouse lab
+lighthouse labs
 full stack web development
