@@ -1,5 +1,3 @@
 hello
-hello
-hello
-lighthouse
-lab
+lighthouse lab
+web development
